@@ -13,7 +13,7 @@
   <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-elf" name="StatixOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-elf" remote="github" revision="14.0.0" clone-depth="1" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi" name="StatixOS/android_prebuilts_gcc_linux-x86_arm_arm-eabi" remote="github" revision="12.0.0" clone-depth="1" />
-  <project path="kernel/surya" name="surya-aosp/kernel_xiaomi_surya" revision="lineage-22-ksu" remote="github" >
+  <project path="kernel/surya" name="hentaiOS-surya/platform_kernel_xiaomi_surya" revision="Vallhound" remote="github" >
      <linkfile dest="build.config" src="build.config.surya" />
   </project>
 </manifest>
